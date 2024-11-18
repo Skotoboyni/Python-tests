@@ -1,1 +1,1 @@
-# Python-tests
+# Автотесты на python
